@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 * 📔 I'm currently a fourth-year Software Systems student studying at SFU 
-* 💻 Always trying to learn and expand my knowledge
-* 🏀 I like to play sports!
-* 📫 Feel free to connect with me!
-
 
 <!--
 **donpsabance/donpsabance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
