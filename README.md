@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 📔 I'm currently a fourth-year Software Systems student studying at SFU 
+* 📔 Thanks for stopping by
 
 <!--
 **donpsabance/donpsabance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
